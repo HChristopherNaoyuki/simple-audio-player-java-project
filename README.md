@@ -1,4 +1,4 @@
-# SimpleAudioPlayer
+# Simple Audio Player
 
 A basic Java application that allows users to play, stop, and reset audio files using the Java Sound API. The user interface is console-based, providing a simple menu for audio playback control.
 
