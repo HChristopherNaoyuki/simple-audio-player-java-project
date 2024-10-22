@@ -18,7 +18,7 @@ A basic Java application that allows users to play, stop, and reset audio files 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/SimpleAudioPlayer.git
+   git clone https://github.com/HChristopherNaoyuki/simple-audio-player-java-project.git
    cd SimpleAudioPlayer
    ```
 
